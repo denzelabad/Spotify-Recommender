@@ -1,4 +1,4 @@
-# Spotify-Recommender
+# Spotify Song Recommendation System
 
 ### Description
 This project involves using a content-based filtering recommendation system made in Python to find new songs for a music playlist.
